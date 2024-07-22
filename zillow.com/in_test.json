@@ -1,0 +1,11 @@
+[
+{"address": "9 Jersey Dr, Worcester, MA 01606", "zip_code": "01606", "price": "375,000", "num_bedrooms": "3", "num_bathrooms": "2", "sqft": "1,168"},
+{"address": "33 Governors St, Worcester, MA 01606", "zip_code": "01606", "price": "399,900", "num_bedrooms": "3", "num_bathrooms": "2", "sqft": "1,200"},
+{"address": "52 Edison St, Quincy, MA 02169", "zip_code": "02169", "price": "799,900", "num_bedrooms": "4", "num_bathrooms": "2", "sqft": "1,726"},
+{"address": "194 Sumner Ave, Springfield, MA 01108", "zip_code": "01108", "price": "175,000", "num_bedrooms": "8", "num_bathrooms": "5", "sqft": "5,120"},
+{"address": "56 Liberty Ave, Revere, MA 02151", "zip_code": "02151", "price": "899,900", "num_bedrooms": "3", "num_bathrooms": "3", "sqft": "2,392"},
+{"address": "56 Musket Rd, Plymouth, MA 02360", "zip_code": "02360", "price": "499,000", "num_bedrooms": "3", "num_bathrooms": "1", "sqft": "1,500"},
+{"address": "21-23 Olive St, Methuen, MA 01844", "zip_code": "01844", "price": "770,000", "num_bedrooms": "6", "num_bathrooms": "2", "sqft": "2,700"},
+{"address": "71 Tower Hill Rd, Brimfield, MA 01010", "zip_code": "01010", "price": "399,900", "num_bedrooms": "3", "num_bathrooms": "2", "sqft": "1,592"},
+{"address": "11 Summer St, Billerica, MA 01821", "zip_code": "01821", "price": "399,000", "num_bedrooms": "3", "num_bathrooms": "1", "sqft": "1,217"}
+]
