@@ -1,0 +1,23 @@
+{'selectedProfile': {'label': 'ZCTA5 02467', 'params': {'g': '860XX00US02467'}}, 'highlights': [{'format': 'number',
+'value': '22626', 'topic': 'Populations and People', 'label': 'Total Population', 'sourceLink':
+'https://www.census.gov/programs-surveys/decennial-census/about/rdo.html', 'source': '2020 Decennial Census', 'tableId':
+'DECENNIALDHC2020.P1'}, {'format': 'dollar', 'value': '171250', 'topic': 'Income and Poverty', 'label': 'Median
+Household Income', 'sourceLink': 'https://www.census.gov/programs-surveys/acs.html', 'source': '2022 American Community
+Survey 5-Year Estimates', 'tableId': 'ACSST5Y2022.S1901'}, {'format': 'percent', 'value': '83.8', 'topic': 'Education',
+'label': "Bachelor's Degree or Higher", 'sourceLink': 'https://www.census.gov/programs-surveys/acs.html', 'source':
+'2022 American Community Survey 5-Year Estimates', 'tableId': 'ACSST5Y2022.S1501'}, {'format': 'percent', 'value':
+'54.9', 'topic': 'Employment', 'label': 'Employment Rate', 'sourceLink':
+'https://www.census.gov/programs-surveys/acs.html', 'source': '2022 American Community Survey 5-Year Estimates',
+'tableId': 'ACSDP5Y2022.DP03'}, {'format': 'number', 'value': '7260', 'topic': 'Housing', 'label': 'Total Housing
+Units', 'sourceLink': 'https://www.census.gov/programs-surveys/decennial-census/about/rdo.html', 'source': '2020
+Decennial Census', 'tableId': 'DECENNIALDHC2020.H1'}, {'format': 'percent', 'value': '2.2', 'topic': 'Health', 'label':
+'Without Health Care Coverage', 'sourceLink': 'https://www.census.gov/programs-surveys/acs.html', 'source': '2022
+American Community Survey 5-Year Estimates', 'tableId': 'ACSST5Y2022.S2701'}, {'format': 'number', 'value': '483',
+'topic': 'Business and Economy', 'label': 'Total Employer Establishments', 'sourceLink':
+'https://www.census.gov/programs-surveys/cbp.html', 'source': '2021 Economic Surveys Business Patterns', 'tableId':
+'CBP2021.CB2100CBP'}, {'format': 'number', 'value': '6546', 'topic': 'Families and Living Arrangements', 'label': 'Total
+Households', 'sourceLink': 'https://www.census.gov/programs-surveys/acs.html', 'source': '2022 American Community Survey
+5-Year Estimates', 'tableId': 'ACSDP5Y2022.DP02'}, {'format': 'number', 'value': '1254', 'topic': 'Race and Ethnicity',
+'label': 'Hispanic or Latino (of any race)', 'sourceLink':
+'https://www.census.gov/programs-surveys/decennial-census/about/rdo.html', 'source': '2020 Decennial Census', 'tableId':
+'DECENNIALDHC2020.P9'}]}
