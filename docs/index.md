@@ -21,5 +21,28 @@ The processing was not too complicated. I set up types correctly for the Zillow 
 Again, not too complicated. At this step, I realized I would need another data source to give me shape objects for each zip code. So, I went to this site [https://gis.data.mass.gov/maps/81d760af6cd54809966bc799ca28926d/about] which contained a GeoJson for download. I added the GeoJson to my project before loading it in as a GeoPandas DF. From there, I aggregated housing information by zip code, and I performed two merges to get each zip code as a row with all collected metrics as columns. I mainly focused on price for this step, but so many other metrics could be focused on for further exploration. I made several plots including median price per zip code, median income per zip code, the ratio of med_price/med_income per zip code. I plotted these three geographically. I also made two more plots, a boxplot of price per zip code and a boxplot of price per realtor. 
 
 ## Results
+Price by Zip Code
+![Price by Zipcode](./figures/zip_prices.svg)
 
-![image info](./figures/zip_prices.svg)
+Price by Realtor
+![Realtor](./figures/realtor.svg)
+
+Map of Median Income
+![Median Income Map](./figures/median_income.svg)
+
+
+Map of Median Home Price
+![Median Price Map](./figures/median_home_price.svg)
+
+Map of Price per Income Multiplier
+![Home Multiplier](./figures/home_multiplier.svg)
+
+Price and Square Feet with Zip Codes
+![Price and Square Feet with Zip Codes](./figures/sqft_price.svg)
+
+
+## Takeaways
+Boston famously has extreme income inequality. This has been exaserbated by generational accumulation of wealth, especially with white Bostonians. Most of the graphs show this disparity vividly. The traditionally wealthier areas (South End, Back Bay) have considereably higher income and much higher home prices. However, in Back Bay, we see a tremendous multiple of home prices compared to income. My theory for this is that many people rent in this area, so their income may be lower than home-owners, but that is not reflected in the Zillow data. 
+
+## Future Exploration
+There is always the opportunity to do a similar analysis with more (and bigger) cities. Boston has a very small footprint with not many zip codes, so a bigger city like LA or Chicago could have even more granular data. Also, there are many more metrics to explore zip code by zip code, as we see in the census data. Also, should you take this to a new city, I would recommend loading the census data first, seeing which zip codes have some population, and then scraping Zillow data from there. 
