@@ -1,0 +1,24 @@
+#I used AI to build this
+# macOS system files
+.DS_Store
+
+# Python virtual environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# IDE files
+.idea/
+.vscode/
+
+# Dependency directories
+dist/
+build/
