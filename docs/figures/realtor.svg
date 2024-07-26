@@ -1,0 +1,454 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" display="block" class="plt-container" width="600.0" height="400.0">
+  <style type="text/css">
+  .plt-container {
+   font-family: Lucida Grande, sans-serif;
+   user-select: none;
+   -webkit-user-select: none;
+   -moz-user-select: none;
+   -ms-user-select: none;
+}
+text {
+   text-rendering: optimizeLegibility;
+}
+#pSt564Q .plot-title {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 16.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#pSt564Q .plot-subtitle {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 15.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#pSt564Q .plot-caption {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 13.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#pSt564Q .legend-title {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 15.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#pSt564Q .legend-item {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 13.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#pSt564Q .axis-title-x {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 15.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#pSt564Q .axis-text-x {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 13.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#dUhg1UH .axis-tooltip-text-x {
+   fill: #ffffff;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 13.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#pSt564Q .axis-title-y {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 15.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#pSt564Q .axis-text-y {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 13.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#dUhg1UH .axis-tooltip-text-y {
+   fill: #ffffff;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 13.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#pSt564Q .facet-strip-text-x {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 13.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#pSt564Q .facet-strip-text-y {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 13.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#dUhg1UH .tooltip-text {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 13.0px;
+   font-weight: normal;
+   font-style: normal;   
+}
+#dUhg1UH .tooltip-title {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 13.0px;
+   font-weight: bold;
+   font-style: normal;   
+}
+#dUhg1UH .tooltip-label {
+   fill: #474747;
+   font-family: Lucida Grande, sans-serif;
+   font-size: 13.0px;
+   font-weight: bold;
+   font-style: normal;   
+}
+
+  </style>
+  <g id="pSt564Q">
+    <path fill-rule="evenodd" fill="rgb(255,255,255)" fill-opacity="1.0" d="M0.0 0.0 L0.0 400.0 L600.0 400.0 L600.0 0.0 Z">
+    </path>
+    <g transform="translate(29.5 6.5 ) ">
+      <g>
+        <g transform="translate(38.40018069752042 0.0 ) ">
+          <g>
+            <line x1="33.16892063559337" y1="0.0" x2="33.16892063559337" y2="312.1836354519934" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+            <line x1="84.19802930573702" y1="0.0" x2="84.19802930573702" y2="312.1836354519934" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+            <line x1="135.22713797588068" y1="0.0" x2="135.22713797588068" y2="312.1836354519934" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+            <line x1="186.25624664602432" y1="0.0" x2="186.25624664602432" y2="312.1836354519934" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+            <line x1="237.28535531616797" y1="0.0" x2="237.28535531616797" y2="312.1836354519934" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+            <line x1="288.31446398631164" y1="0.0" x2="288.31446398631164" y2="312.1836354519934" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+            <line x1="339.3435726564553" y1="0.0" x2="339.3435726564553" y2="312.1836354519934" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+            <line x1="390.3726813265989" y1="0.0" x2="390.3726813265989" y2="312.1836354519934" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+            <line x1="441.4017899967426" y1="0.0" x2="441.4017899967426" y2="312.1836354519934" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+            <line x1="492.43089866688626" y1="0.0" x2="492.43089866688626" y2="312.1836354519934" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+          </g>
+        </g>
+        <g transform="translate(38.40018069752042 0.0 ) ">
+          <g>
+            <line x1="0.0" y1="308.8694136379012" x2="525.5998193024795" y2="308.8694136379012" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+            <line x1="0.0" y1="255.3299752636035" x2="525.5998193024795" y2="255.3299752636035" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+            <line x1="0.0" y1="184.55468749212855" x2="525.5998193024795" y2="184.55468749212855" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+            <line x1="0.0" y1="131.01524911783076" x2="525.5998193024795" y2="131.01524911783076" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+            <line x1="0.0" y1="77.47581074353297" x2="525.5998193024795" y2="77.47581074353297" stroke="rgb(233,233,233)" stroke-opacity="1.0" stroke-width="1.0" fill="none">
+            </line>
+          </g>
+        </g>
+      </g>
+      <g clip-path="url(#cjhm0dn)" clip-bounds-jfx="[rect (38.40018069752042, 0.0), (525.5998193024795, 312.1836354519934)]">
+        <g transform="translate(38.40018069752042 0.0 ) ">
+          <g>
+            <g>
+              <rect x="10.205821734028731" y="182.3465613865526" height="86.22111543036681" width="45.926197803129284" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="rgb(210,210,255)" fill-opacity="0.7" stroke-width="1.6500000000000001">
+              </rect>
+              <rect x="61.23493040417239" y="181.1547756259415" height="90.30861338516729" width="45.9261978031293" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="rgb(210,210,255)" fill-opacity="0.7" stroke-width="1.6500000000000001">
+              </rect>
+              <rect x="112.26403907431603" y="145.01304498544482" height="123.21387356950572" width="45.9261978031293" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="rgb(210,210,255)" fill-opacity="0.7" stroke-width="1.6500000000000001">
+              </rect>
+              <rect x="163.29314774445967" y="120.52272604808445" height="62.69193384378241" width="45.92619780312927" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="rgb(210,210,255)" fill-opacity="0.7" stroke-width="1.6500000000000001">
+              </rect>
+              <rect x="214.32225641460332" y="183.1008748250324" height="78.04245619305652" width="45.9261978031293" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="rgb(210,210,255)" fill-opacity="0.7" stroke-width="1.6500000000000001">
+              </rect>
+              <rect x="265.351365084747" y="192.30760464233003" height="75.5755086192869" width="45.9261978031293" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="rgb(210,210,255)" fill-opacity="0.7" stroke-width="1.6500000000000001">
+              </rect>
+              <rect x="316.38047375489066" y="120.3543346968163" height="60.46117849286611" width="45.9261978031293" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="rgb(210,210,255)" fill-opacity="0.7" stroke-width="1.6500000000000001">
+              </rect>
+              <rect x="367.4095824250343" y="88.57736554385451" height="112.87597868295734" width="45.9261978031293" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="rgb(210,210,255)" fill-opacity="0.7" stroke-width="1.6500000000000001">
+              </rect>
+              <rect x="418.43869109517794" y="198.05872203446006" height="70.83050599060311" width="45.92619780312924" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="rgb(210,210,255)" fill-opacity="0.7" stroke-width="1.6500000000000001">
+              </rect>
+              <rect x="469.4677997653216" y="199.2079986001338" height="84.1700880799724" width="45.9261978031293" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="rgb(210,210,255)" fill-opacity="0.7" stroke-width="1.6500000000000001">
+              </rect>
+              <line x1="10.205821734028731" y1="230.87283058787807" x2="56.132019537158016" y2="230.87283058787807" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="3.3000000000000003">
+              </line>
+              <line x1="61.23493040417239" y1="229.47854936812382" x2="107.16112820730166" y2="229.47854936812382" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="3.3000000000000003">
+              </line>
+              <line x1="112.26403907431603" y1="206.8786189372679" x2="158.19023687744533" y2="206.8786189372679" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="3.3000000000000003">
+              </line>
+              <line x1="163.29314774445967" y1="156.3892587692119" x2="209.21934554758897" y2="156.3892587692119" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="3.3000000000000003">
+              </line>
+              <line x1="214.32225641460332" y1="201.82916708877792" x2="260.2484542177326" y2="201.82916708877792" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="3.3000000000000003">
+              </line>
+              <line x1="265.351365084747" y1="228.95525246108878" x2="311.2775628878763" y2="228.95525246108878" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="3.3000000000000003">
+              </line>
+              <line x1="316.38047375489066" y1="150.30576396519973" x2="362.30667155801996" y2="150.30576396519973" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="3.3000000000000003">
+              </line>
+              <line x1="367.4095824250343" y1="158.03736235285874" x2="413.33578022816357" y2="158.03736235285874" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="3.3000000000000003">
+              </line>
+              <line x1="418.43869109517794" y1="219.26814260977062" x2="464.3648888983072" y2="219.26814260977062" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="3.3000000000000003">
+              </line>
+              <line x1="469.4677997653216" y1="270.24049967034784" x2="515.3939975684508" y2="270.24049967034784" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="3.3000000000000003">
+              </line>
+              <line x1="33.16892063559337" y1="268.5676768169194" x2="33.16892063559337" y2="312.1836354519934" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="21.687371184811052" y1="312.1836354519934" x2="44.65047008637569" y2="312.1836354519934" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="33.16892063559337" y1="182.3465613865526" x2="33.16892063559337" y2="66.68044705926877" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="21.687371184811052" y1="66.68044705926877" x2="44.65047008637569" y2="66.68044705926877" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="84.19802930573702" y1="271.4633890111088" x2="84.19802930573702" y2="310.58768854795926" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="72.71647985495471" y1="310.58768854795926" x2="95.67957875651935" y2="310.58768854795926" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="84.19802930573702" y1="181.1547756259415" x2="84.19802930573702" y2="54.86969302386842" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="72.71647985495471" y1="54.86969302386842" x2="95.67957875651935" y2="54.86969302386842" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="135.22713797588068" y1="268.22691855495054" x2="135.22713797588068" y2="310.74596578339447" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="123.74558852509836" y1="310.74596578339447" x2="146.708687426663" y2="310.74596578339447" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="135.22713797588068" y1="145.01304498544482" x2="135.22713797588068" y2="3.700786465201645" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="123.74558852509836" y1="3.700786465201645" x2="146.708687426663" y2="3.700786465201645" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="186.25624664602432" y1="183.21465989186686" x2="186.25624664602432" y2="219.26814260977062" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="174.774697195242" y1="219.26814260977062" x2="197.73779609680665" y2="219.26814260977062" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="186.25624664602432" y1="120.52272604808445" x2="186.25624664602432" y2="51.735005822542234" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="174.774697195242" y1="51.735005822542234" x2="197.73779609680665" y2="51.735005822542234" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="237.28535531616797" y1="261.14333101808893" x2="237.28535531616797" y2="296.2159274451858" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="225.80380586538564" y1="296.2159274451858" x2="248.76690476695026" y2="296.2159274451858" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="237.28535531616797" y1="183.1008748250324" x2="237.28535531616797" y2="46.15724698489771" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="225.80380586538564" y1="46.15724698489771" x2="248.76690476695026" y2="46.15724698489771" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="288.31446398631164" y1="267.8831132616169" x2="288.31446398631164" y2="300.8085331122394" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="276.8329145355293" y1="300.8085331122394" x2="299.79601343709396" y2="300.8085331122394" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="288.31446398631164" y1="192.30760464233003" x2="288.31446398631164" y2="126.58739893298912" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="276.8329145355293" y1="126.58739893298912" x2="299.79601343709396" y2="126.58739893298912" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="339.3435726564553" y1="180.8155131896824" x2="339.3435726564553" y2="275.6184507919663" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="327.862023205673" y1="275.6184507919663" x2="350.8251221072376" y2="275.6184507919663" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="339.3435726564553" y1="120.3543346968163" x2="339.3435726564553" y2="78.6432044844828" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="327.862023205673" y1="78.6432044844828" x2="350.8251221072376" y2="78.6432044844828" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="390.3726813265989" y1="201.45334422681185" x2="390.3726813265989" y2="277.6539067087424" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="378.89113187581665" y1="277.6539067087424" x2="401.85423077738125" y2="277.6539067087424" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="390.3726813265989" y1="88.57736554385451" x2="390.3726813265989" y2="28.921397587720776" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="378.89113187581665" y1="28.921397587720776" x2="401.85423077738125" y2="28.921397587720776" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="441.4017899967426" y1="268.8892280250632" x2="441.4017899967426" y2="300.25383713959843" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="429.92024054596027" y1="300.25383713959843" x2="452.8833394475249" y2="300.25383713959843" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="441.4017899967426" y1="198.05872203446006" x2="441.4017899967426" y2="178.75330503334385" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="429.92024054596027" y1="178.75330503334385" x2="452.8833394475249" y2="178.75330503334385" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="492.43089866688626" y1="283.3780866801062" x2="492.43089866688626" y2="307.3398372744563" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="480.94934921610394" y1="307.3398372744563" x2="503.91244811766853" y2="307.3398372744563" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="492.43089866688626" y1="199.2079986001338" x2="492.43089866688626" y2="164.28938776498012" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+              <line x1="480.94934921610394" y1="164.28938776498012" x2="503.91244811766853" y2="164.28938776498012" stroke="rgb(0,0,0)" stroke-opacity="1.0" fill="none" stroke-width="1.6500000000000001">
+              </line>
+            </g>
+          </g>
+        </g>
+        <defs>
+          <clipPath id="cjhm0dn">
+            <rect x="38.40018069752042" y="0.0" width="525.5998193024795" height="312.1836354519934">
+            </rect>
+          </clipPath>
+        </defs>
+      </g>
+      <g>
+        <g transform="translate(38.40018069752042 312.1836354519934 ) ">
+          <g transform="translate(33.16892063559337 0.0 ) ">
+            <line stroke-width="1.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" x2="0.0" y2="4.0">
+            </line>
+            <g transform="translate(0.0 7.0 ) rotate(-30.0 ) ">
+              <text class="axis-text-x" text-anchor="end" dy="0.7em">
+                <tspan>Compass</tspan>
+              </text>
+            </g>
+          </g>
+          <g transform="translate(84.19802930573702 0.0 ) ">
+            <line stroke-width="1.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" x2="0.0" y2="4.0">
+            </line>
+            <g transform="translate(0.0 7.0 ) rotate(-30.0 ) ">
+              <text class="axis-text-x" text-anchor="end" dy="0.7em">
+                <tspan>Coldwell</tspan>
+              </text>
+            </g>
+          </g>
+          <g transform="translate(135.22713797588068 0.0 ) ">
+            <line stroke-width="1.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" x2="0.0" y2="4.0">
+            </line>
+            <g transform="translate(0.0 7.0 ) rotate(-30.0 ) ">
+              <text class="axis-text-x" text-anchor="end" dy="0.7em">
+                <tspan>Gibson</tspan>
+              </text>
+            </g>
+          </g>
+          <g transform="translate(186.25624664602432 0.0 ) ">
+            <line stroke-width="1.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" x2="0.0" y2="4.0">
+            </line>
+            <g transform="translate(0.0 7.0 ) rotate(-30.0 ) ">
+              <text class="axis-text-x" text-anchor="end" dy="0.7em">
+                <tspan>MP</tspan>
+              </text>
+            </g>
+          </g>
+          <g transform="translate(237.28535531616797 0.0 ) ">
+            <line stroke-width="1.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" x2="0.0" y2="4.0">
+            </line>
+            <g transform="translate(0.0 7.0 ) rotate(-30.0 ) ">
+              <text class="axis-text-x" text-anchor="end" dy="0.7em">
+                <tspan>Douglas</tspan>
+              </text>
+            </g>
+          </g>
+          <g transform="translate(288.31446398631164 0.0 ) ">
+            <line stroke-width="1.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" x2="0.0" y2="4.0">
+            </line>
+            <g transform="translate(0.0 7.0 ) rotate(-30.0 ) ">
+              <text class="axis-text-x" text-anchor="end" dy="0.7em">
+                <tspan>Keller</tspan>
+              </text>
+            </g>
+          </g>
+          <g transform="translate(339.3435726564553 0.0 ) ">
+            <line stroke-width="1.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" x2="0.0" y2="4.0">
+            </line>
+            <g transform="translate(0.0 7.0 ) rotate(-30.0 ) ">
+              <text class="axis-text-x" text-anchor="end" dy="0.7em">
+                <tspan>Campion</tspan>
+              </text>
+            </g>
+          </g>
+          <g transform="translate(390.3726813265989 0.0 ) ">
+            <line stroke-width="1.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" x2="0.0" y2="4.0">
+            </line>
+            <g transform="translate(0.0 7.0 ) rotate(-30.0 ) ">
+              <text class="axis-text-x" text-anchor="end" dy="0.7em">
+                <tspan>Luxury</tspan>
+              </text>
+            </g>
+          </g>
+          <g transform="translate(441.4017899967426 0.0 ) ">
+            <line stroke-width="1.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" x2="0.0" y2="4.0">
+            </line>
+            <g transform="translate(0.0 7.0 ) rotate(-30.0 ) ">
+              <text class="axis-text-x" text-anchor="end" dy="0.7em">
+                <tspan>Century</tspan>
+              </text>
+            </g>
+          </g>
+          <g transform="translate(492.43089866688626 0.0 ) ">
+            <line stroke-width="1.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" x2="0.0" y2="4.0">
+            </line>
+            <g transform="translate(0.0 7.0 ) rotate(-30.0 ) ">
+              <text class="axis-text-x" text-anchor="end" dy="0.7em">
+                <tspan>William</tspan>
+              </text>
+            </g>
+          </g>
+          <line x1="0.0" y1="0.0" x2="525.5998193024795" y2="0.0" stroke-width="1.0" stroke="rgb(71,71,71)" stroke-opacity="1.0">
+          </line>
+        </g>
+        <g transform="translate(38.40018069752042 0.0 ) ">
+          <g transform="translate(0.0 308.8694136379012 ) ">
+            <g transform="translate(-3.0 0.0 ) ">
+              <text class="axis-text-y" text-anchor="end" dy="0.35em">
+                <tspan>500k</tspan>
+              </text>
+            </g>
+          </g>
+          <g transform="translate(0.0 255.3299752636035 ) ">
+            <g transform="translate(-3.0 0.0 ) ">
+              <text class="axis-text-y" text-anchor="end" dy="0.35em">
+                <tspan>1M</tspan>
+              </text>
+            </g>
+          </g>
+          <g transform="translate(0.0 184.55468749212855 ) ">
+            <g transform="translate(-3.0 0.0 ) ">
+              <text class="axis-text-y" text-anchor="end" dy="0.35em">
+                <tspan>2.5M</tspan>
+              </text>
+            </g>
+          </g>
+          <g transform="translate(0.0 131.01524911783076 ) ">
+            <g transform="translate(-3.0 0.0 ) ">
+              <text class="axis-text-y" text-anchor="end" dy="0.35em">
+                <tspan>5M</tspan>
+              </text>
+            </g>
+          </g>
+          <g transform="translate(0.0 77.47581074353297 ) ">
+            <g transform="translate(-3.0 0.0 ) ">
+              <text class="axis-text-y" text-anchor="end" dy="0.35em">
+                <tspan>10M</tspan>
+              </text>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g transform="translate(16.0 162.5918177259967 ) rotate(-90.0 ) ">
+      <text class="axis-title-y" y="0.0" text-anchor="middle">
+        <tspan>Price (log scale)</tspan>
+      </text>
+    </g>
+    <g transform="translate(330.7000903487602 393.0 ) ">
+      <text class="axis-title-x" y="0.0" text-anchor="middle">
+        <tspan>Broker Name</tspan>
+      </text>
+    </g>
+    <path fill="rgb(0,0,0)" fill-opacity="0.0" stroke="rgb(71,71,71)" stroke-opacity="1.0" stroke-width="0.0" d="M0.0 0.0 L0.0 400.0 L600.0 400.0 L600.0 0.0 Z">
+    </path>
+  </g>
+  <g id="dUhg1UH">
+  </g>
+</svg>
