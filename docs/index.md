@@ -1,5 +1,8 @@
 # ME204 (2024) | Thomas' Project
 
+## About Me 
+Hello, my name is Thomas Hong, and I am a CS + Econ undergrad at Rice University. I created this project as my final for LSE's summer course ME204. 
+
 ## Introduction
 
 I decided to investigate home pricing information in my home city (Boston). That was my initial approach to the assignment, then I realized that I could make even more insight if I were able to get data zip code by zip code. So, I scraped the USA census website for this information.
